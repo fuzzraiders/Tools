@@ -15,6 +15,41 @@ Everything here is designed to support offensive and defensive workflows in a cl
 - Command-line tools  
 - Quality-of-life hacking utilities  
 
+## 📂 Repository Structure
+
+```
+TOOLS/
+├── README.md
+
+├── Recon/
+│   ├── port-scanner/
+│   ├── service-enum/
+│   └── README.md
+
+├── Enumeration/
+│   ├── web-enum/
+│   ├── smb-enum/
+│   └── README.md
+
+├── Fuzzing/
+│   ├── dir-fuzzer/
+│   ├── param-fuzzer/
+│   └── README.md
+
+├── Exploit/
+│   ├── payload-utils/
+│   ├── encoding-utils/
+│   └── README.md
+
+├── Post-Exploitation/
+│   ├── creds-utils/
+│   └── README.md
+
+└── Utils/
+    ├── encoders/
+    ├── decoders/
+    └── README.md
+```
 ## 🛠 Usage
 Each tool includes:
 - A dedicated folder  
