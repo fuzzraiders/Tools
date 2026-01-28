@@ -1,4 +1,9 @@
-# 🧰 FuzzRaiders — Tools
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=FuzzRaiders+Tools+Repository"
+    alt="FuzzRaiders — ToolsRepository"
+  />
+</p>
 
 This repository contains security tools, scripts, and automation developed by the FuzzRaiders team.  
 Everything here is designed to support offensive and defensive workflows in a clean, modular way.
